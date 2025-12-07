@@ -1,0 +1,70 @@
+{
+  "flights": [
+    {
+      "flight_number": "AF1234",
+      "airline": "Air France",
+      "departure_city": "Paris (CDG)",
+      "arrival_city": "New York (JFK)",
+      "departure_time": "2025-12-07T10:00:00",
+      "arrival_time": "2025-12-07T13:30:00",
+      "status": "à l'heure",
+      "gate": "A12",
+      "delay_minutes": 0
+    },
+    {
+      "flight_number": "BA5678",
+      "airline": "British Airways",
+      "departure_city": "London (LHR)",
+      "arrival_city": "Paris (CDG)",
+      "departure_time": "2025-12-07T11:15:00",
+      "arrival_time": "2025-12-07T12:45:00",
+      "status": "retardé",
+      "gate": "B5",
+      "delay_minutes": 30
+    },
+    {
+      "flight_number": "LH9999",
+      "airline": "Lufthansa",
+      "departure_city": "Berlin (BER)",
+      "arrival_city": "Munich (MUC)",
+      "departure_time": "2025-12-07T14:00:00",
+      "arrival_time": "2025-12-07T15:30:00",
+      "status": "annulé",
+      "gate": null,
+      "delay_minutes": 0
+    },
+    {
+      "flight_number": "KL2021",
+      "airline": "KLM",
+      "departure_city": "Amsterdam (AMS)",
+      "arrival_city": "Paris (CDG)",
+      "departure_time": "2025-12-07T16:30:00",
+      "arrival_time": "2025-12-07T17:15:00",
+      "status": "embarquement",
+      "gate": "C8",
+      "delay_minutes": 0
+    },
+    {
+      "flight_number": "EK3456",
+      "airline": "Emirates",
+      "departure_city": "Dubai (DXB)",
+      "arrival_city": "Paris (CDG)",
+      "departure_time": "2025-12-07T08:00:00",
+      "arrival_time": "2025-12-07T14:00:00",
+      "status": "en vol",
+      "gate": "D1",
+      "delay_minutes": 0
+    },
+    {
+      "flight_number": "AF5555",
+      "airline": "Air France",
+      "departure_city": "Paris (CDG)",
+      "arrival_city": "London (LHR)",
+      "departure_time": "2025-12-07T18:45:00",
+      "arrival_time": "2025-12-07T19:30:00",
+      "status": "à l'heure",
+      "gate": "A15",
+      "delay_minutes": 0
+    }
+  ]
+}

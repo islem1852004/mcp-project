@@ -1,0 +1,24 @@
+{
+    "servers": {
+            "say_hello": {
+                        "type": "stdio",
+                        "command": "uv",
+                        "args": ["run","main.py"]
+            },
+            "Calculater": {
+                        "type": "stdio",
+                        "command": "uv",
+                        "args": ["run","calculater.py"]
+            },
+            "flignts": {
+                        "type": "stdio",
+                        "command": "uv",
+                        "args": ["run","flights_server.py"]
+            },
+            "oppenlib": {
+                        "type": "stdio",
+                        "command": "uv",
+                        "args": ["run","openlibrary_mcp.py"]
+            }
+    }
+}
