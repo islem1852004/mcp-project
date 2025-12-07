@@ -1,0 +1,10 @@
+{
+	"servers": {
+    		"conferenceServer": {
+      		"type": "stdio",
+      		"command": "uv",
+     		 "args": ["run", "mcpserver.py"]
+    		}
+			}
+
+		}
