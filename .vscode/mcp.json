@@ -20,5 +20,6 @@
                         "command": "uv",
                         "args": ["run","openlibrary_mcp.py"]
             }
+
     }
 }
