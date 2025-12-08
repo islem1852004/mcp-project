@@ -26,6 +26,5 @@ def power(a: float, b: float):
     return a ** b
 
 
-
-if __name__ == "__main__":
-    mcp.run(transport="stdio")
+if __name__ == "__main__": 
+    mcp.run(transport="http")
